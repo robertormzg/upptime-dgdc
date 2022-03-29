@@ -24,7 +24,7 @@ sites:
   #- name: Test Broken Site
   #  url: https://thissitedoesnotexist.koj.co
 
-assignees_
+assignees:
   - robertormzg
 
 status-website:
