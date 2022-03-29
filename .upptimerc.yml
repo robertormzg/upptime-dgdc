@@ -3,20 +3,35 @@ owner: upptime # Your GitHub organization or username, where this repository liv
 repo: upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Divulgación de la Ciencia, UNAM
+    url: http://www.dgdc.unam.mx
+  - name: Universum
+    url: http://www.universum.unam.mx
+  - name: Ciencia UNAM
+    url: http://ciencia.unam.mx
+  - name: Revista ¿Cómo ves?
+    url: http://www.comoves.unam.mx
+  - name: Museode la Luz
+    url: http://www.mudeodelaluz.unam.mx
+  - name: Educación continua
+    url: https://educacioncontinua.dgdc.unam.mx
+  - name: Temasili
+    url: https://temasili.dgdc.unam.mx
+  - name: UNAM
+    url: https://www.unam.mx
+  #- name: Google
+  #  url: https://www.google.com
+  #- name: Test Broken Site
+  #  url: https://thissitedoesnotexist.koj.co
+
+assignees_
+  - robertormzg
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
+  # cname: demo.upptime.js.org
+  baseUrl: /upptime-dgdc
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
