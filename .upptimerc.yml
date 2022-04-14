@@ -17,6 +17,8 @@ sites:
     url: https://educacioncontinua.dgdc.unam.mx
   - name: Temasili
     url: https://temasili.dgdc.unam.mx
+  - name: Ameyalli
+    url: https://ru.ameyalli.dgdc.unam.mx
   - name: UNAM
     url: https://www.unam.mx
   #- name: Google
