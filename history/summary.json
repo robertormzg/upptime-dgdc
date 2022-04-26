@@ -143,19 +143,17 @@
     "icon": "https://favicons.githubusercontent.com/ru.ameyalli.dgdc.unam.mx",
     "slug": "ameyalli",
     "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 287,
     "timeDay": 244,
     "timeWeek": 313,
     "timeMonth": 287,
     "timeYear": 287,
-    "dailyMinutesDown": {
-      "2022-04-25": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "UNAM",
