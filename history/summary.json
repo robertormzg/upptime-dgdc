@@ -10,11 +10,11 @@
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.83%",
-    "time": 373,
-    "timeDay": 478,
-    "timeWeek": 441,
-    "timeMonth": 376,
-    "timeYear": 373,
+    "time": 372,
+    "timeDay": 334,
+    "timeWeek": 407,
+    "timeMonth": 379,
+    "timeYear": 372,
     "dailyMinutesDown": {
       "2022-04-28": 16,
       "2022-04-22": 62
@@ -26,16 +26,16 @@
     "icon": "https://favicons.githubusercontent.com/www.universum.unam.mx",
     "slug": "universum",
     "status": "up",
-    "uptime": "99.86%",
+    "uptime": "99.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.86%",
-    "uptimeYear": "99.86%",
-    "time": 315,
-    "timeDay": 386,
-    "timeWeek": 340,
-    "timeMonth": 320,
-    "timeYear": 315,
+    "uptimeYear": "99.87%",
+    "time": 316,
+    "timeDay": 332,
+    "timeWeek": 322,
+    "timeMonth": 321,
+    "timeYear": 316,
     "dailyMinutesDown": {
       "2022-04-22": 61
     }
@@ -51,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.87%",
-    "time": 751,
-    "timeDay": 1709,
-    "timeWeek": 810,
+    "time": 749,
+    "timeDay": 678,
+    "timeWeek": 798,
     "timeMonth": 753,
-    "timeYear": 751,
+    "timeYear": 749,
     "dailyMinutesDown": {
       "2022-04-22": 60
     }
@@ -72,8 +72,8 @@
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.87%",
     "time": 249,
-    "timeDay": 359,
-    "timeWeek": 268,
+    "timeDay": 217,
+    "timeWeek": 258,
     "timeMonth": 252,
     "timeYear": 249,
     "dailyMinutesDown": {
@@ -91,11 +91,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.77%",
     "uptimeYear": "99.78%",
-    "time": 254,
-    "timeDay": 364,
-    "timeWeek": 253,
+    "time": 253,
+    "timeDay": 230,
+    "timeWeek": 243,
     "timeMonth": 257,
-    "timeYear": 254,
+    "timeYear": 253,
     "dailyMinutesDown": {
       "2022-04-22": 100
     }
@@ -112,8 +112,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 375,
-    "timeDay": 336,
-    "timeWeek": 371,
+    "timeDay": 373,
+    "timeWeek": 366,
     "timeMonth": 375,
     "timeYear": 375,
     "dailyMinutesDown": {
@@ -131,11 +131,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 234,
-    "timeDay": 230,
-    "timeWeek": 248,
-    "timeMonth": 236,
-    "timeYear": 234,
+    "time": 235,
+    "timeDay": 256,
+    "timeWeek": 231,
+    "timeMonth": 235,
+    "timeYear": 235,
     "dailyMinutesDown": {}
   },
   {
@@ -149,11 +149,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 283,
-    "timeDay": 277,
-    "timeWeek": 288,
-    "timeMonth": 283,
-    "timeYear": 283,
+    "time": 286,
+    "timeDay": 342,
+    "timeWeek": 270,
+    "timeMonth": 286,
+    "timeYear": 286,
     "dailyMinutesDown": {}
   },
   {
@@ -167,11 +167,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 123,
-    "timeDay": 45,
-    "timeWeek": 171,
-    "timeMonth": 124,
-    "timeYear": 123,
+    "time": 122,
+    "timeDay": 92,
+    "timeWeek": 148,
+    "timeMonth": 123,
+    "timeYear": 122,
     "dailyMinutesDown": {
       "2022-03-29": 31
     }
