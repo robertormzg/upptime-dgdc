@@ -4,10 +4,10 @@
     "url": "http://www.dgdc.unam.mx",
     "icon": "https://favicons.githubusercontent.com/www.dgdc.unam.mx",
     "slug": "divulgacion-de-la-ciencia-unam",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "99.97%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.85%",
     "time": 379,
@@ -16,6 +16,7 @@
     "timeMonth": 390,
     "timeYear": 379,
     "dailyMinutesDown": {
+      "2022-05-06": 3,
       "2022-04-28": 16,
       "2022-04-22": 62
     }
@@ -25,10 +26,10 @@
     "url": "http://www.universum.unam.mx",
     "icon": "https://favicons.githubusercontent.com/www.universum.unam.mx",
     "slug": "universum",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.89%",
     "time": 318,
@@ -37,6 +38,7 @@
     "timeMonth": 323,
     "timeYear": 318,
     "dailyMinutesDown": {
+      "2022-05-06": 2,
       "2022-04-22": 61
     }
   },
@@ -45,9 +47,9 @@
     "url": "http://ciencia.unam.mx",
     "icon": "https://favicons.githubusercontent.com/ciencia.unam.mx",
     "slug": "ciencia-unam",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.89%",
@@ -57,6 +59,7 @@
     "timeMonth": 708,
     "timeYear": 748,
     "dailyMinutesDown": {
+      "2022-05-06": 0,
       "2022-04-22": 60
     }
   },
@@ -65,18 +68,19 @@
     "url": "http://www.comoves.unam.mx",
     "icon": "https://favicons.githubusercontent.com/www.comoves.unam.mx",
     "slug": "revista-como-ves",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.89%",
-    "time": 248,
-    "timeDay": 235,
-    "timeWeek": 255,
-    "timeMonth": 255,
-    "timeYear": 248,
+    "time": 247,
+    "timeDay": 231,
+    "timeWeek": 252,
+    "timeMonth": 254,
+    "timeYear": 247,
     "dailyMinutesDown": {
+      "2022-05-06": 0,
       "2022-04-22": 59
     }
   },
@@ -85,18 +89,19 @@
     "url": "http://www.museodelaluz.unam.mx",
     "icon": "https://favicons.githubusercontent.com/www.museodelaluz.unam.mx",
     "slug": "museo-de-la-luz",
-    "status": "up",
-    "uptime": "99.81%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.82%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.77%",
-    "uptimeYear": "99.81%",
-    "time": 256,
-    "timeDay": 235,
-    "timeWeek": 288,
-    "timeMonth": 262,
-    "timeYear": 256,
+    "uptimeYear": "99.82%",
+    "time": 254,
+    "timeDay": 191,
+    "timeWeek": 270,
+    "timeMonth": 259,
+    "timeYear": 254,
     "dailyMinutesDown": {
+      "2022-05-06": 0,
       "2022-04-22": 100
     }
   },
@@ -114,7 +119,7 @@
     "time": 374,
     "timeDay": 431,
     "timeWeek": 366,
-    "timeMonth": 374,
+    "timeMonth": 372,
     "timeYear": 374,
     "dailyMinutesDown": {
       "2022-03-29": 31
