@@ -15,6 +15,8 @@ sites:
     url: http://www.museodelaluz.unam.mx
   - name: Educación continua
     url: https://educacioncontinua.dgdc.unam.mx
+  - name: e-learning Universum
+    url: https://e-learning.universum.unam.mx/
   - name: Temasili
     url: https://temasili.dgdc.unam.mx
   - name: Ameyalli
