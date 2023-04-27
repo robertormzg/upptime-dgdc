@@ -1,7 +1,7 @@
 url: http://www.museodelaluz.unam.mx
-status: up
-code: 200
-responseTime: 523
-lastUpdated: 2023-04-26T23:16:42.464Z
+status: down
+code: 502
+responseTime: 456
+lastUpdated: 2023-04-27T20:54:56.225Z
 startTime: Tue Mar 29 2022 20:41:17 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
