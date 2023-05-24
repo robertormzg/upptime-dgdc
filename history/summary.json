@@ -331,17 +331,19 @@
     "url": "https://www.unam.mx",
     "icon": "https://icons.duckduckgo.com/ip3/www.unam.mx.ico",
     "slug": "unam",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 131,
-    "timeDay": 222,
-    "timeWeek": 147,
+    "timeDay": 187,
+    "timeWeek": 144,
     "timeMonth": 122,
     "timeYear": 134,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-24": 0
+    }
   }
 ]
