@@ -1,7 +1,7 @@
 url: http://ciencia.unam.mx
-status: down
-code: 502
-responseTime: 206
-lastUpdated: 2023-10-13T17:43:14.960Z
+status: up
+code: 200
+responseTime: 1409
+lastUpdated: 2023-10-13T17:56:30.312Z
 startTime: 2022-03-29T20:16:37.000Z
 generator: Upptime <https://github.com/upptime/upptime>
