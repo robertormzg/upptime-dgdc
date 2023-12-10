@@ -4,15 +4,17 @@ repo: upptime-dgdc # The name of this repository
 
 sites:
   - name: Divulgación de la Ciencia UNAM
-    url: http://www.dgdc.unam.mx
+    url: https://www.dgdc.unam.mx
+  - name: Boletos DGDC
+    url: https://boletos.dgdc.unam.mx/
   - name: Universum
-    url: http://www.universum.unam.mx
+    url: https://www.universum.unam.mx
   - name: Ciencia UNAM
-    url: http://ciencia.unam.mx
+    url: https://ciencia.unam.mx
   - name: Revista Cómo ves
-    url: http://www.comoves.unam.mx
+    url: https://www.comoves.unam.mx
   - name: Museo de la Luz
-    url: http://www.museodelaluz.unam.mx
+    url: https://www.museodelaluz.unam.mx
   - name: Educación continua
     url: https://educacioncontinua.dgdc.unam.mx
   - name: e-learning Universum
@@ -21,6 +23,8 @@ sites:
     url: https://temasili.dgdc.unam.mx
   - name: Ameyalli
     url: https://ru.ameyalli.dgdc.unam.mx
+  - name: UNAMirada a la Ciencia
+    url: http://www.unamiradaalaciencia.unam.mx/
   - name: UNAM
     url: https://www.unam.mx
   #- name: Google
