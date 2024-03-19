@@ -11,10 +11,10 @@
     "uptimeMonth": "98.31%",
     "uptimeYear": "99.45%",
     "time": 878,
-    "timeDay": 768,
-    "timeWeek": 861,
-    "timeMonth": 613,
-    "timeYear": 891,
+    "timeDay": 995,
+    "timeWeek": 858,
+    "timeMonth": 632,
+    "timeYear": 892,
     "dailyMinutesDown": {
       "2024-03-06": 339,
       "2024-03-05": 400,
@@ -52,8 +52,7 @@
       "2023-05-16": 21,
       "2023-04-28": 18,
       "2023-04-27": 24,
-      "2023-04-23": 20,
-      "2023-03-20": 40
+      "2023-04-23": 20
     }
   },
   {
@@ -68,9 +67,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 633,
-    "timeDay": 471,
-    "timeWeek": 555,
-    "timeMonth": 641,
+    "timeDay": 591,
+    "timeWeek": 566,
+    "timeMonth": 633,
     "timeYear": 633,
     "dailyMinutesDown": {}
   },
@@ -85,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.61%",
     "uptimeYear": "99.49%",
-    "time": 649,
-    "timeDay": 325,
-    "timeWeek": 435,
-    "timeMonth": 444,
-    "timeYear": 665,
+    "time": 648,
+    "timeDay": 592,
+    "timeWeek": 452,
+    "timeMonth": 451,
+    "timeYear": 666,
     "dailyMinutesDown": {
       "2024-03-06": 214,
       "2024-03-05": 396,
@@ -126,8 +125,7 @@
       "2023-05-16": 16,
       "2023-04-28": 17,
       "2023-04-27": 23,
-      "2023-04-23": 20,
-      "2023-03-20": 40
+      "2023-04-23": 20
     }
   },
   {
@@ -141,11 +139,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.34%",
     "uptimeYear": "98.91%",
-    "time": 1267,
-    "timeDay": 1083,
-    "timeWeek": 1123,
-    "timeMonth": 1732,
-    "timeYear": 1306,
+    "time": 1268,
+    "timeDay": 1044,
+    "timeWeek": 1108,
+    "timeMonth": 1727,
+    "timeYear": 1307,
     "dailyMinutesDown": {
       "2024-03-06": 333,
       "2024-03-05": 394,
@@ -183,8 +181,7 @@
       "2023-05-16": 16,
       "2023-04-28": 15,
       "2023-04-27": 21,
-      "2023-04-23": 20,
-      "2023-03-20": 40
+      "2023-04-23": 20
     }
   },
   {
@@ -199,9 +196,9 @@
     "uptimeMonth": "98.28%",
     "uptimeYear": "95.31%",
     "time": 560,
-    "timeDay": 343,
-    "timeWeek": 382,
-    "timeMonth": 851,
+    "timeDay": 558,
+    "timeWeek": 387,
+    "timeMonth": 854,
     "timeYear": 543,
     "dailyMinutesDown": {
       "2024-03-06": 376,
@@ -235,8 +232,7 @@
       "2023-06-22": 25,
       "2023-05-16": 16,
       "2023-04-27": 21,
-      "2023-04-23": 20,
-      "2023-03-20": 39
+      "2023-04-23": 20
     }
   },
   {
@@ -245,14 +241,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.museodelaluz.unam.mx.ico",
     "slug": "museo-de-la-luz",
     "status": "up",
-    "uptime": "93.48%",
+    "uptime": "93.49%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.24%",
     "uptimeYear": "87.42%",
     "time": 500,
-    "timeDay": 294,
-    "timeWeek": 283,
+    "timeDay": 243,
+    "timeWeek": 281,
     "timeMonth": 394,
     "timeYear": 457,
     "dailyMinutesDown": {
@@ -327,8 +323,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 484,
-    "timeDay": 319,
-    "timeWeek": 403,
+    "timeDay": 436,
+    "timeWeek": 389,
     "timeMonth": 444,
     "timeYear": 506,
     "dailyMinutesDown": {
@@ -347,11 +343,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 457,
-    "timeDay": 302,
-    "timeWeek": 392,
+    "time": 456,
+    "timeDay": 441,
+    "timeWeek": 397,
     "timeMonth": 415,
-    "timeYear": 442,
+    "timeYear": 443,
     "dailyMinutesDown": {
       "2023-10-04": 43,
       "2023-09-05": 178
@@ -368,11 +364,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 255,
-    "timeDay": 197,
+    "time": 254,
+    "timeDay": 270,
     "timeWeek": 253,
     "timeMonth": 250,
-    "timeYear": 251,
+    "timeYear": 252,
     "dailyMinutesDown": {
       "2023-10-04": 42,
       "2023-09-05": 19
@@ -390,9 +386,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.86%",
     "time": 342,
-    "timeDay": 239,
-    "timeWeek": 295,
-    "timeMonth": 285,
+    "timeDay": 371,
+    "timeWeek": 303,
+    "timeMonth": 288,
     "timeYear": 332,
     "dailyMinutesDown": {
       "2023-10-19": 310,
@@ -420,8 +416,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 393,
-    "timeDay": 247,
-    "timeWeek": 363,
+    "timeDay": 392,
+    "timeWeek": 348,
     "timeMonth": 361,
     "timeYear": 393,
     "dailyMinutesDown": {}
@@ -432,18 +428,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.unam.mx.ico",
     "slug": "unam",
     "status": "down",
-    "uptime": "58.50%",
+    "uptime": "58.42%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.67%",
-    "uptimeYear": "18.23%",
+    "uptimeYear": "17.96%",
     "time": 123,
-    "timeDay": 130,
-    "timeWeek": 115,
+    "timeDay": 95,
+    "timeWeek": 114,
     "timeMonth": 110,
     "timeYear": 120,
     "dailyMinutesDown": {
-      "2024-03-18": 57,
+      "2024-03-19": 56,
+      "2024-03-18": 1440,
       "2024-03-17": 1440,
       "2024-03-16": 1440,
       "2024-03-15": 1440,
