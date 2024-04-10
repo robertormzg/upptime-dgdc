@@ -1,7 +1,7 @@
 url: https://boletos.dgdc.unam.mx/
-status: down
-code: 500
-responseTime: 351
-lastUpdated: 2024-04-10T02:56:03.308Z
+status: up
+code: 200
+responseTime: 531
+lastUpdated: 2024-04-10T03:09:13.949Z
 startTime: 2023-12-10T00:01:00.112Z
 generator: Upptime <https://github.com/upptime/upptime>
