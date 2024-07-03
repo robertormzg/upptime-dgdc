@@ -344,7 +344,7 @@
     "uptime": "93.42%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "86.79%",
+    "uptimeMonth": "86.98%",
     "uptimeYear": "86.79%",
     "time": 459,
     "timeDay": 583,
@@ -415,9 +415,9 @@
     "slug": "temasili",
     "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.67%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.69%",
     "uptimeYear": "99.93%",
     "time": 265,
     "timeDay": 266,
@@ -425,7 +425,6 @@
     "timeMonth": 291,
     "timeYear": 276,
     "dailyMinutesDown": {
-      "2024-07-02": 6,
       "2024-06-10": 32,
       "2024-06-09": 105,
       "2024-05-09": 72,
@@ -494,7 +493,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.unam.mx.ico",
     "slug": "unam",
     "status": "down",
-    "uptime": "50.93%",
+    "uptime": "50.92%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -505,7 +504,8 @@
     "timeMonth": 115,
     "timeYear": 123,
     "dailyMinutesDown": {
-      "2024-07-02": 1419,
+      "2024-07-03": 63,
+      "2024-07-02": 1440,
       "2024-07-01": 1440,
       "2024-06-30": 1440,
       "2024-06-29": 1440,
@@ -868,8 +868,7 @@
       "2023-07-08": 1440,
       "2023-07-07": 1440,
       "2023-07-06": 1440,
-      "2023-07-05": 1440,
-      "2023-07-04": 1440
+      "2023-07-05": 1440
     }
   }
 ]
