@@ -259,7 +259,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/e-learning.universum.unam.mx.ico",
     "slug": "e-learning-universum",
     "status": "up",
-    "uptime": "93.59%",
+    "uptime": "93.60%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -341,18 +341,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/temasili.dgdc.unam.mx.ico",
     "slug": "temasili",
     "status": "down",
-    "uptime": "94.89%",
+    "uptime": "94.88%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "86.13%",
+    "uptimeYear": "86.11%",
     "time": 281,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 291,
     "dailyMinutesDown": {
-      "2024-12-17": 1412,
+      "2024-12-18": 78,
+      "2024-12-17": 1440,
       "2024-12-16": 1440,
       "2024-12-15": 1440,
       "2024-12-14": 1440,
@@ -494,7 +495,8 @@
     "timeMonth": 137,
     "timeYear": 132,
     "dailyMinutesDown": {
-      "2024-12-17": 1412,
+      "2024-12-18": 78,
+      "2024-12-17": 1440,
       "2024-12-16": 1440,
       "2024-12-15": 1440,
       "2024-12-14": 1440,
@@ -857,8 +859,7 @@
       "2023-12-23": 1440,
       "2023-12-22": 1440,
       "2023-12-21": 1440,
-      "2023-12-20": 1440,
-      "2023-12-19": 1440
+      "2023-12-20": 1440
     }
   }
 ]
