@@ -1,7 +1,7 @@
 url: https://educacioncontinua.dgdc.unam.mx
-status: up
-code: 200
-responseTime: 406
-lastUpdated: 2025-05-07T23:21:01.020Z
+status: down
+code: 500
+responseTime: 239
+lastUpdated: 2025-05-08T00:39:26.323Z
 startTime: 2022-03-29T20:16:40.000Z
 generator: Upptime <https://github.com/upptime/upptime>
