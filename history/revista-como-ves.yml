@@ -1,7 +1,7 @@
 url: https://www.comoves.unam.mx
-status: up
-code: 200
-responseTime: 424
-lastUpdated: 2025-07-03T23:22:13.951Z
+status: down
+code: 502
+responseTime: 4643
+lastUpdated: 2025-07-04T20:32:51.282Z
 startTime: 2022-03-29T20:16:38.000Z
 generator: Upptime <https://github.com/upptime/upptime>
