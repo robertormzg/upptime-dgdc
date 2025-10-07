@@ -463,19 +463,20 @@
     "url": "https://ru.ameyalli.dgdc.unam.mx",
     "icon": "https://icons.duckduckgo.com/ip3/ru.ameyalli.dgdc.unam.mx.ico",
     "slug": "ameyalli",
-    "status": "down",
-    "uptime": "94.60%",
-    "uptimeDay": "10.01%",
-    "uptimeWeek": "24.33%",
-    "uptimeMonth": "51.85%",
-    "uptimeYear": "84.88%",
-    "time": 630,
-    "timeDay": 324,
-    "timeWeek": 323,
-    "timeMonth": 1171,
-    "timeYear": 641,
+    "status": "up",
+    "uptime": "94.59%",
+    "uptimeDay": "10.04%",
+    "uptimeWeek": "23.54%",
+    "uptimeMonth": "51.66%",
+    "uptimeYear": "84.87%",
+    "time": 635,
+    "timeDay": 1196,
+    "timeWeek": 759,
+    "timeMonth": 1211,
+    "timeYear": 646,
     "dailyMinutesDown": {
-      "2025-10-06": 1290,
+      "2025-10-07": 75,
+      "2025-10-06": 1296,
       "2025-10-05": 1440,
       "2025-10-04": 1440,
       "2025-10-03": 970,
@@ -597,7 +598,8 @@
     "timeMonth": 201,
     "timeYear": 162,
     "dailyMinutesDown": {
-      "2025-10-06": 1435,
+      "2025-10-07": 75,
+      "2025-10-06": 1440,
       "2025-10-05": 1440,
       "2025-10-04": 1440,
       "2025-10-03": 1440,
@@ -960,8 +962,7 @@
       "2024-10-11": 1440,
       "2024-10-10": 1440,
       "2024-10-09": 1440,
-      "2024-10-08": 1440,
-      "2024-10-07": 1440
+      "2024-10-08": 1440
     }
   }
 ]
