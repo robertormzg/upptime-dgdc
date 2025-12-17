@@ -11,9 +11,9 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "98.98%",
     "time": 1003,
-    "timeDay": 873,
-    "timeWeek": 1011,
-    "timeMonth": 998,
+    "timeDay": 922,
+    "timeWeek": 990,
+    "timeMonth": 1000,
     "timeYear": 1004,
     "dailyMinutesDown": {
       "2025-11-17": 21,
@@ -28,8 +28,7 @@
       "2025-03-18": 1046,
       "2025-03-17": 366,
       "2025-03-06": 160,
-      "2024-12-26": 82,
-      "2024-12-17": 361
+      "2024-12-26": 82
     }
   },
   {
@@ -44,9 +43,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 470,
-    "timeDay": 307,
-    "timeWeek": 401,
-    "timeMonth": 375,
+    "timeDay": 365,
+    "timeWeek": 398,
+    "timeMonth": 376,
     "timeYear": 430,
     "dailyMinutesDown": {}
   },
@@ -62,7 +61,7 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "98.97%",
     "time": 482,
-    "timeDay": 374,
+    "timeDay": 416,
     "timeWeek": 417,
     "timeMonth": 497,
     "timeYear": 471,
@@ -78,8 +77,7 @@
       "2025-03-18": 1046,
       "2025-03-17": 366,
       "2025-03-06": 278,
-      "2024-12-26": 81,
-      "2024-12-17": 361
+      "2024-12-26": 81
     }
   },
   {
@@ -94,9 +92,9 @@
     "uptimeMonth": "99.89%",
     "uptimeYear": "98.91%",
     "time": 1278,
-    "timeDay": 1070,
-    "timeWeek": 1753,
-    "timeMonth": 1448,
+    "timeDay": 1174,
+    "timeWeek": 1751,
+    "timeMonth": 1450,
     "timeYear": 1260,
     "dailyMinutesDown": {
       "2025-12-05": 26,
@@ -114,8 +112,7 @@
       "2025-03-18": 1046,
       "2025-03-17": 366,
       "2025-03-06": 452,
-      "2024-12-26": 81,
-      "2024-12-17": 361
+      "2024-12-26": 81
     }
   },
   {
@@ -130,9 +127,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.65%",
     "time": 472,
-    "timeDay": 407,
-    "timeWeek": 463,
-    "timeMonth": 424,
+    "timeDay": 429,
+    "timeWeek": 453,
+    "timeMonth": 427,
     "timeYear": 469,
     "dailyMinutesDown": {
       "2025-09-29": 41,
@@ -141,8 +138,7 @@
       "2025-07-06": 636,
       "2025-04-03": 18,
       "2025-03-06": 540,
-      "2024-12-26": 80,
-      "2024-12-17": 361
+      "2024-12-26": 80
     }
   },
   {
@@ -157,9 +153,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.64%",
     "time": 420,
-    "timeDay": 294,
-    "timeWeek": 343,
-    "timeMonth": 383,
+    "timeDay": 318,
+    "timeWeek": 322,
+    "timeMonth": 386,
     "timeYear": 402,
     "dailyMinutesDown": {
       "2025-09-08": 20,
@@ -170,8 +166,7 @@
       "2025-04-03": 29,
       "2025-03-06": 496,
       "2025-02-08": 79,
-      "2024-12-26": 80,
-      "2024-12-17": 361
+      "2024-12-26": 80
     }
   },
   {
@@ -186,9 +181,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "90.50%",
     "time": 549,
-    "timeDay": 352,
-    "timeWeek": 461,
-    "timeMonth": 482,
+    "timeDay": 357,
+    "timeWeek": 446,
+    "timeMonth": 479,
     "timeYear": 536,
     "dailyMinutesDown": {
       "2025-11-10": 1260,
@@ -240,15 +235,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/e-learning.universum.unam.mx.ico",
     "slug": "e-learning-universum",
     "status": "up",
-    "uptime": "95.36%",
+    "uptime": "95.37%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.76%",
     "time": 496,
-    "timeDay": 386,
-    "timeWeek": 1021,
-    "timeMonth": 645,
+    "timeDay": 437,
+    "timeWeek": 1013,
+    "timeMonth": 646,
     "timeYear": 495,
     "dailyMinutesDown": {
       "2025-10-08": 72,
@@ -264,15 +259,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/temasili.dgdc.unam.mx.ico",
     "slug": "temasili",
     "status": "up",
-    "uptime": "86.81%",
+    "uptime": "86.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "64.35%",
-    "time": 296,
-    "timeDay": 209,
-    "timeWeek": 271,
-    "timeMonth": 307,
+    "uptimeYear": "64.63%",
+    "time": 295,
+    "timeDay": 252,
+    "timeWeek": 244,
+    "timeMonth": 309,
     "timeYear": 297,
     "dailyMinutesDown": {
       "2025-10-08": 72,
@@ -406,8 +401,7 @@
       "2024-12-21": 1440,
       "2024-12-20": 1440,
       "2024-12-19": 1440,
-      "2024-12-18": 1440,
-      "2024-12-17": 1440
+      "2024-12-18": 1440
     }
   },
   {
@@ -416,16 +410,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/ru.ameyalli.dgdc.unam.mx.ico",
     "slug": "ameyalli",
     "status": "up",
-    "uptime": "92.98%",
+    "uptime": "92.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.36%",
     "uptimeYear": "80.47%",
     "time": 672,
-    "timeDay": 422,
-    "timeWeek": 505,
-    "timeMonth": 436,
-    "timeYear": 715,
+    "timeDay": 488,
+    "timeWeek": 479,
+    "timeMonth": 444,
+    "timeYear": 716,
     "dailyMinutesDown": {
       "2025-12-01": 281,
       "2025-11-12": 90,
@@ -536,12 +530,12 @@
     "status": "up",
     "uptime": "99.86%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.22%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.77%",
     "uptimeYear": "99.77%",
     "time": 403,
-    "timeDay": 295,
-    "timeWeek": 415,
+    "timeDay": 349,
+    "timeWeek": 353,
     "timeMonth": 464,
     "timeYear": 407,
     "dailyMinutesDown": {
@@ -559,18 +553,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.unam.mx.ico",
     "slug": "unam",
     "status": "down",
-    "uptime": "31.00%",
+    "uptime": "30.98%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.02%",
     "time": 158,
-    "timeDay": 164,
-    "timeWeek": 153,
-    "timeMonth": 140,
+    "timeDay": 115,
+    "timeWeek": 152,
+    "timeMonth": 136,
     "timeYear": 162,
     "dailyMinutesDown": {
-      "2025-12-16": 100,
+      "2025-12-17": 86,
+      "2025-12-16": 1440,
       "2025-12-15": 1440,
       "2025-12-14": 1440,
       "2025-12-13": 1440,
@@ -933,8 +928,7 @@
       "2024-12-21": 1440,
       "2024-12-20": 1440,
       "2024-12-19": 1440,
-      "2024-12-18": 1440,
-      "2024-12-17": 1440
+      "2024-12-18": 1440
     }
   }
 ]
