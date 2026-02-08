@@ -37,19 +37,19 @@
     "url": "https://boletos.dgdc.unam.mx/",
     "icon": "https://icons.duckduckgo.com/ip3/boletos.dgdc.unam.mx.ico",
     "slug": "boletos-dgdc",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.34%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 466,
-    "timeDay": 388,
-    "timeWeek": 439,
-    "timeMonth": 397,
+    "time": 465,
+    "timeDay": 349,
+    "timeWeek": 420,
+    "timeMonth": 393,
     "timeYear": 421,
     "dailyMinutesDown": {
-      "2026-02-08": 0
+      "2026-02-08": 10
     }
   },
   {
@@ -271,7 +271,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "79.24%",
+    "uptimeYear": "79.25%",
     "time": 300,
     "timeDay": 615,
     "timeWeek": 381,
@@ -524,7 +524,7 @@
     "timeMonth": 175,
     "timeYear": 164,
     "dailyMinutesDown": {
-      "2026-02-08": 704,
+      "2026-02-08": 714,
       "2026-02-07": 1440,
       "2026-02-06": 1440,
       "2026-02-05": 1440,
