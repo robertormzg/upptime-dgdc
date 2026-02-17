@@ -1,7 +1,7 @@
 url: https://www.dgdc.unam.mx
-status: up
-code: 200
-responseTime: 893
-lastUpdated: 2026-02-16T23:33:44.607Z
+status: down
+code: 502
+responseTime: 437
+lastUpdated: 2026-02-17T19:30:14.313Z
 startTime: 2022-03-29T20:16:36.000Z
 generator: Upptime <https://github.com/upptime/upptime>
