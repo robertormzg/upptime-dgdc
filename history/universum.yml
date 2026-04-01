@@ -1,7 +1,7 @@
 url: https://www.universum.unam.mx
-status: up
-code: 200
-responseTime: 532
-lastUpdated: 2026-03-31T23:38:19.413Z
+status: down
+code: 502
+responseTime: 3278
+lastUpdated: 2026-04-01T14:00:26.756Z
 startTime: 2022-03-29T20:16:36.000Z
 generator: Upptime <https://github.com/upptime/upptime>
