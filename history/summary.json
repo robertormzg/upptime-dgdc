@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.dgdc.unam.mx.ico",
     "slug": "divulgacion-de-la-ciencia-unam",
     "status": "up",
-    "uptime": "99.32%",
+    "uptime": "99.33%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.32%",
     "uptimeYear": "98.91%",
     "time": 1000,
-    "timeDay": 968,
-    "timeWeek": 997,
-    "timeMonth": 992,
-    "timeYear": 985,
+    "timeDay": 987,
+    "timeWeek": 915,
+    "timeMonth": 990,
+    "timeYear": 987,
     "dailyMinutesDown": {
       "2026-04-08": 144,
       "2026-04-05": 323,
@@ -33,8 +33,7 @@
       "2025-07-07": 169,
       "2025-07-06": 636,
       "2025-06-27": 752,
-      "2025-06-20": 18,
-      "2025-04-21": 836
+      "2025-06-20": 18
     }
   },
   {
@@ -49,10 +48,10 @@
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.99%",
     "time": 421,
-    "timeDay": 659,
-    "timeWeek": 449,
-    "timeMonth": 409,
-    "timeYear": 417,
+    "timeDay": 515,
+    "timeWeek": 476,
+    "timeMonth": 413,
+    "timeYear": 418,
     "dailyMinutesDown": {
       "2026-03-26": 60
     }
@@ -69,9 +68,9 @@
     "uptimeMonth": "97.32%",
     "uptimeYear": "98.91%",
     "time": 494,
-    "timeDay": 655,
-    "timeWeek": 525,
-    "timeMonth": 594,
+    "timeDay": 534,
+    "timeWeek": 540,
+    "timeMonth": 597,
     "timeYear": 505,
     "dailyMinutesDown": {
       "2026-04-08": 144,
@@ -90,8 +89,7 @@
       "2025-07-22": 91,
       "2025-07-07": 169,
       "2025-07-06": 636,
-      "2025-06-27": 752,
-      "2025-04-21": 836
+      "2025-06-27": 752
     }
   },
   {
@@ -105,11 +103,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.32%",
     "uptimeYear": "98.89%",
-    "time": 1268,
-    "timeDay": 1112,
-    "timeWeek": 1214,
-    "timeMonth": 1188,
-    "timeYear": 1303,
+    "time": 1269,
+    "timeDay": 1371,
+    "timeWeek": 1213,
+    "timeMonth": 1193,
+    "timeYear": 1306,
     "dailyMinutesDown": {
       "2026-04-08": 144,
       "2026-04-05": 323,
@@ -131,8 +129,7 @@
       "2025-07-16": 20,
       "2025-07-07": 151,
       "2025-07-06": 636,
-      "2025-06-27": 752,
-      "2025-04-21": 836
+      "2025-06-27": 752
     }
   },
   {
@@ -141,15 +138,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.comoves.unam.mx.ico",
     "slug": "revista-como-ves",
     "status": "up",
-    "uptime": "98.49%",
+    "uptime": "98.50%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.32%",
     "uptimeYear": "99.54%",
     "time": 476,
-    "timeDay": 523,
-    "timeWeek": 469,
-    "timeMonth": 590,
+    "timeDay": 482,
+    "timeWeek": 492,
+    "timeMonth": 591,
     "timeYear": 490,
     "dailyMinutesDown": {
       "2026-04-08": 143,
@@ -179,9 +176,9 @@
     "uptimeMonth": "79.01%",
     "uptimeYear": "98.02%",
     "time": 452,
-    "timeDay": 334,
-    "timeWeek": 392,
-    "timeMonth": 1007,
+    "timeDay": 431,
+    "timeWeek": 401,
+    "timeMonth": 1010,
     "timeYear": 475,
     "dailyMinutesDown": {
       "2026-04-08": 143,
@@ -216,9 +213,9 @@
     "uptimeMonth": "78.97%",
     "uptimeYear": "88.79%",
     "time": 518,
-    "timeDay": 460,
-    "timeWeek": 469,
-    "timeMonth": 539,
+    "timeDay": 517,
+    "timeWeek": 487,
+    "timeMonth": 543,
     "timeYear": 522,
     "dailyMinutesDown": {
       "2026-04-07": 246,
@@ -276,16 +273,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/e-learning.universum.unam.mx.ico",
     "slug": "e-learning-universum",
     "status": "up",
-    "uptime": "95.77%",
+    "uptime": "95.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.77%",
     "time": 507,
-    "timeDay": 442,
-    "timeWeek": 528,
-    "timeMonth": 553,
-    "timeYear": 506,
+    "timeDay": 448,
+    "timeWeek": 535,
+    "timeMonth": 550,
+    "timeYear": 505,
     "dailyMinutesDown": {
       "2026-01-02": 97,
       "2025-12-18": 37,
@@ -300,15 +297,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/temasili.dgdc.unam.mx.ico",
     "slug": "temasili",
     "status": "up",
-    "uptime": "87.55%",
+    "uptime": "87.56%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "82.30%",
-    "uptimeYear": "97.12%",
+    "uptimeYear": "97.39%",
     "time": 315,
-    "timeDay": 419,
-    "timeWeek": 423,
-    "timeMonth": 412,
+    "timeDay": 265,
+    "timeWeek": 427,
+    "timeMonth": 411,
     "timeYear": 315,
     "dailyMinutesDown": {
       "2026-04-07": 246,
@@ -326,8 +323,7 @@
       "2025-04-25": 97,
       "2025-04-24": 1440,
       "2025-04-23": 1440,
-      "2025-04-22": 1440,
-      "2025-04-21": 1440
+      "2025-04-22": 1440
     }
   },
   {
@@ -342,9 +338,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "80.24%",
     "time": 639,
-    "timeDay": 456,
-    "timeWeek": 334,
-    "timeMonth": 324,
+    "timeDay": 302,
+    "timeWeek": 323,
+    "timeMonth": 323,
     "timeYear": 751,
     "dailyMinutesDown": {
       "2026-03-18": 50,
@@ -461,10 +457,10 @@
     "uptimeMonth": "99.68%",
     "uptimeYear": "99.92%",
     "time": 390,
-    "timeDay": 357,
-    "timeWeek": 359,
-    "timeMonth": 375,
-    "timeYear": 388,
+    "timeDay": 465,
+    "timeWeek": 377,
+    "timeMonth": 373,
+    "timeYear": 389,
     "dailyMinutesDown": {
       "2026-04-10": 114,
       "2026-04-03": 25,
@@ -484,16 +480,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.unam.mx.ico",
     "slug": "unam",
     "status": "up",
-    "uptime": "31.79%",
+    "uptime": "31.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "13.84%",
-    "time": 186,
-    "timeDay": 540,
-    "timeWeek": 435,
-    "timeMonth": 408,
-    "timeYear": 196,
+    "uptimeYear": "14.11%",
+    "time": 187,
+    "timeDay": 535,
+    "timeWeek": 468,
+    "timeMonth": 413,
+    "timeYear": 197,
     "dailyMinutesDown": {
       "2026-02-28": 988,
       "2026-02-27": 1440,
@@ -807,8 +803,7 @@
       "2025-04-25": 1440,
       "2025-04-24": 1440,
       "2025-04-23": 1440,
-      "2025-04-22": 1440,
-      "2025-04-21": 1440
+      "2025-04-22": 1440
     }
   }
 ]
