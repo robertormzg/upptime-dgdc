@@ -4,13 +4,13 @@
     "url": "https://www.dgdc.unam.mx",
     "icon": "https://icons.duckduckgo.com/ip3/www.dgdc.unam.mx.ico",
     "slug": "divulgacion-de-la-ciencia-unam",
-    "status": "up",
+    "status": "down",
     "uptime": "99.34%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.69%",
     "uptimeYear": "99.22%",
-    "time": 978,
+    "time": 979,
     "timeDay": 1130,
     "timeWeek": 973,
     "timeMonth": 935,
@@ -32,7 +32,8 @@
       "2026-05-02": 46,
       "2026-06-01": 691,
       "2026-07-21": 62,
-      "2026-07-20": 74
+      "2026-07-20": 74,
+      "2026-08-11": 1
     }
   },
   {
@@ -64,10 +65,10 @@
     "url": "https://www.universum.unam.mx",
     "icon": "https://icons.duckduckgo.com/ip3/www.universum.unam.mx.ico",
     "slug": "universum",
-    "status": "up",
+    "status": "down",
     "uptime": "99.35%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.70%",
     "uptimeYear": "99.23%",
     "time": 494,
@@ -91,7 +92,8 @@
       "2026-04-08": 144,
       "2026-06-01": 691,
       "2026-07-21": 62,
-      "2026-07-20": 69
+      "2026-07-20": 69,
+      "2026-08-11": 1
     }
   },
   {
@@ -99,10 +101,10 @@
     "url": "https://ciencia.unam.mx",
     "icon": "https://icons.duckduckgo.com/ip3/ciencia.unam.mx.ico",
     "slug": "ciencia-unam",
-    "status": "up",
+    "status": "down",
     "uptime": "99.20%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.71%",
     "uptimeYear": "99.21%",
     "time": 1264,
@@ -129,7 +131,8 @@
       "2026-04-08": 144,
       "2026-06-01": 691,
       "2026-07-21": 62,
-      "2026-07-20": 64
+      "2026-07-20": 64,
+      "2026-08-11": 1
     }
   },
   {
@@ -137,10 +140,10 @@
     "url": "https://www.comoves.unam.mx",
     "icon": "https://icons.duckduckgo.com/ip3/www.comoves.unam.mx.ico",
     "slug": "revista-como-ves",
-    "status": "up",
+    "status": "down",
     "uptime": "98.60%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.72%",
     "uptimeYear": "99.67%",
     "time": 470,
@@ -160,7 +163,8 @@
       "2026-04-05": 323,
       "2026-04-08": 143,
       "2026-07-21": 62,
-      "2026-07-20": 60
+      "2026-07-20": 60,
+      "2026-08-11": 1
     }
   },
   {
@@ -168,13 +172,13 @@
     "url": "https://www.museodelaluz.unam.mx",
     "icon": "https://icons.duckduckgo.com/ip3/www.museodelaluz.unam.mx.ico",
     "slug": "museo-de-la-luz",
-    "status": "up",
+    "status": "down",
     "uptime": "96.44%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.73%",
     "uptimeYear": "98.15%",
-    "time": 439,
+    "time": 440,
     "timeDay": 504,
     "timeWeek": 349,
     "timeMonth": 337,
@@ -196,7 +200,8 @@
       "2026-03-31": 328,
       "2026-04-08": 143,
       "2026-07-21": 62,
-      "2026-07-20": 55
+      "2026-07-20": 55,
+      "2026-08-11": 0
     }
   },
   {
@@ -295,7 +300,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/temasili.dgdc.unam.mx.ico",
     "slug": "temasili",
     "status": "up",
-    "uptime": "88.43%",
+    "uptime": "88.44%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.84%",
@@ -453,11 +458,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.unam.mx.ico",
     "slug": "unam",
     "status": "up",
-    "uptime": "35.70%",
+    "uptime": "35.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.85%",
-    "uptimeYear": "40.74%",
+    "uptimeYear": "40.94%",
     "time": 308,
     "timeDay": 703,
     "timeWeek": 441,
